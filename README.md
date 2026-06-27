@@ -34,7 +34,7 @@
 
 [![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16D-5Pom36GePfVHt3u1JOAnaPa6WlwR6/view?usp=sharing)
 
-> 🎥 **A complete end-to-end video explanation** of the project — covering data preparation, model building, imbalance handling, and the final deployment recommendation.
+> 🎥 **A complete end-to-end video explanation** of the project — covering message feature engineering, KNN, SVM, and Naive Bayes model building, class imbalance handling, Bayes' Theorem validation, and the final deployment recommendation for the Message Intelligence System.
 >
 > 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/16D-5Pom36GePfVHt3u1JOAnaPa6WlwR6/view?usp=sharing)*
 
