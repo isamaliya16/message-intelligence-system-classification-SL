@@ -26,6 +26,22 @@
 
 <br>
 
+
+
+## 🎬 Video Walkthrough
+
+<div align="center">
+
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16D-5Pom36GePfVHt3u1JOAnaPa6WlwR6/view?usp=sharing)
+
+> 🎥 **A complete end-to-end video explanation** of the project — covering data preparation, model building, imbalance handling, and the final deployment recommendation.
+>
+> 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/16D-5Pom36GePfVHt3u1JOAnaPa6WlwR6/view?usp=sharing)*
+
+</div>
+
+<br>
+
 ## 🎯 About the Project
 
 > An end-to-end **classification system** built for a communication security company to automatically distinguish **Spam** from **Legitimate** messages — combining classical probability theory with modern machine learning.
@@ -127,7 +143,7 @@ This project takes on the role of a **Data Scientist at a communication security
 
 <div align="center">
 
-### 🛡️ Support Vector Machine (Linear Kernel) — Recommended for Deployment
+### 🛡️ Support Vector Machine (Linear Kernel)
 
 </div>
 
@@ -137,7 +153,7 @@ This project takes on the role of a **Data Scientist at a communication security
 
 <div align="center">
 
-| Why SVM Leads the Recommendation |
+| Why SVM Leads |
 |:---|
 | 📐 Maximizes the margin between Spam and Legitimate, not just local closeness |
 | 🧠 Kernel flexibility (Linear / RBF / Polynomial) handles complex boundaries |
